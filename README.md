@@ -1,12 +1,4 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
-
-### <div align="center">I'm Marco, a full-time full-stack developer at Go Up Consulting.</div>  
-  
-
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
+### <div align="center">I'm Marco, a full-time full-stack developer working at Go Up Consulting</div>  
   
 
 - ⚡ Always open to new knowledge  
@@ -36,9 +28,11 @@
 
 ### Backend  
 <div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
 </div>
 
@@ -48,7 +42,10 @@
 
 ### DevOps  
 <div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
 </div>
 
 </td></tr></table>  
@@ -69,31 +66,7 @@
 
 <br/>  
 
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MarcoGrillo&show_icons=true&count_private=true&hide_border=true" align="left" />
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
-
-<br/>  
-
-
-
-### What I'm listening to  
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=4fblgc0qrl4pvr962vkntbms0&cover_image=true&theme=default" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
-</div>  
-
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=4fblgc0qrl4pvr962vkntbms0&cover_image=true&theme=default" /></div>
 <br />
 
 ----
